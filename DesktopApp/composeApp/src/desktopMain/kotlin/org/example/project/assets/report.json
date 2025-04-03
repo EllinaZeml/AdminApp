@@ -1,0 +1,72 @@
+[
+  {
+    "startDate": "2025-01-01",
+    "endDate": "2025-01-31",
+    "report": {
+      "profit": 45000.75,
+      "ticketSold": 1000,
+      "expenses": 15000.00,
+      "netProfit": 30000.75
+    }
+  },
+  {
+    "startDate": "2025-02-01",
+    "endDate": "2025-02-28",
+    "report": {
+      "profit": 38000.50,
+      "ticketSold": 850,
+      "expenses": 12000.00,
+      "netProfit": 26000.50
+    }
+  },
+  {
+    "startDate": "2025-03-01",
+    "endDate": "2025-03-31",
+    "report": {
+      "profit": 55000.00,
+      "ticketSold": 1200,
+      "expenses": 17000.00,
+      "netProfit": 38000.00
+    }
+  },
+  {
+    "startDate": "2025-04-01",
+    "endDate": "2025-04-30",
+    "report": {
+      "profit": 42000.00,
+      "ticketSold": 950,
+      "expenses": 14000.00,
+      "netProfit": 28000.00
+    }
+  },
+  {
+    "startDate": "2025-05-01",
+    "endDate": "2025-05-31",
+    "report": {
+      "profit": 52000.25,
+      "ticketSold": 1100,
+      "expenses": 16000.00,
+      "netProfit": 36000.25
+    }
+  },
+  {
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-30",
+    "report": {
+      "profit": 47000.00,
+      "ticketSold": 1020,
+      "expenses": 13500.00,
+      "netProfit": 33500.00
+    }
+  },
+  {
+    "startDate": "2025-07-01",
+    "endDate": "2025-07-31",
+    "report": {
+      "profit": 60000.00,
+      "ticketSold": 1400,
+      "expenses": 18000.00,
+      "netProfit": 42000.00
+    }
+  }
+]

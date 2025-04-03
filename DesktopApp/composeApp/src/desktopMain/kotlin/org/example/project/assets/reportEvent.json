@@ -1,0 +1,65 @@
+[
+  {
+    "eventId": "event-1",
+    "report": {
+      "profit": 15000.50,
+      "ticketSold": 300,
+      "expenses": 5000.00,
+      "netProfit": 10000.50
+    }
+  },
+  {
+    "eventId": "event-2",
+    "report": {
+      "profit": 35000.50,
+      "ticketSold": 750,
+      "expenses": 10000.00,
+      "netProfit": 30000.50
+    }
+  },
+  {
+    "eventId": "event-3",
+    "report": {
+      "profit": 25000.00,
+      "ticketSold": 500,
+      "expenses": 8000.00,
+      "netProfit": 17000.00
+    }
+  },
+  {
+    "eventId": "event-4",
+    "report": {
+      "profit": 12000.75,
+      "ticketSold": 250,
+      "expenses": 4000.50,
+      "netProfit": 8000.25
+    }
+  },
+  {
+    "eventId": "event-5",
+    "report": {
+      "profit": 45000.00,
+      "ticketSold": 1000,
+      "expenses": 12000.00,
+      "netProfit": 33000.00
+    }
+  },
+  {
+    "eventId": "event-6",
+    "report": {
+      "profit": 10000.00,
+      "ticketSold": 200,
+      "expenses": 3000.00,
+      "netProfit": 7000.00
+    }
+  },
+  {
+    "eventId": "event-7",
+    "report": {
+      "profit": 55000.00,
+      "ticketSold": 1200,
+      "expenses": 15000.00,
+      "netProfit": 40000.00
+    }
+  }
+]

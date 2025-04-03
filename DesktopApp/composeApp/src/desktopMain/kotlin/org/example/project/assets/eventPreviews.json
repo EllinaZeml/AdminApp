@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Событие 1",
+    "date": "2025-03-01T18:00:00",
+    "genre": ["Жанр 1", "Жанр 2"],
+    "ageRating": "18+",
+    "imgPreview": "image_url_1.jpg",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 2,
+    "title": "Событие 2",
+    "date": "2025-03-02T19:00:00",
+    "genre": ["Жанр 3", "Жанр 4"],
+    "ageRating": "12+",
+    "imgPreview": "image_url_2.jpg",
+    "status": "CANCELED"
+  }
+]

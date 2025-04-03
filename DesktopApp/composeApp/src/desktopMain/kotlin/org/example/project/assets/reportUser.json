@@ -1,0 +1,65 @@
+[
+  {
+    "userId": "user-1",
+    "report": {
+      "profit": 1000.00,
+      "ticketSold": 50,
+      "expenses": 300.00,
+      "netProfit": 700.00
+    }
+  },
+  {
+    "userId": "user-2",
+    "report": {
+      "profit": 2500.00,
+      "ticketSold": 120,
+      "expenses": 600.00,
+      "netProfit": 1900.00
+    }
+  },
+  {
+    "userId": "user-3",
+    "report": {
+      "profit": 3500.00,
+      "ticketSold": 150,
+      "expenses": 800.00,
+      "netProfit": 2700.00
+    }
+  },
+  {
+    "userId": "user-4",
+    "report": {
+      "profit": 4500.00,
+      "ticketSold": 200,
+      "expenses": 1000.00,
+      "netProfit": 3500.00
+    }
+  },
+  {
+    "userId": "user-5",
+    "report": {
+      "profit": 1200.00,
+      "ticketSold": 60,
+      "expenses": 400.00,
+      "netProfit": 800.00
+    }
+  },
+  {
+    "userId": "user-6",
+    "report": {
+      "profit": 5000.00,
+      "ticketSold": 220,
+      "expenses": 1500.00,
+      "netProfit": 3500.00
+    }
+  },
+  {
+    "userId": "user-7",
+    "report": {
+      "profit": 6000.00,
+      "ticketSold": 250,
+      "expenses": 2000.00,
+      "netProfit": 4000.00
+    }
+  }
+]
